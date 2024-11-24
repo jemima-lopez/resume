@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "name": "resume",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type":"module",
+  
+  "scripts": {
+    "dev": "nodemon source/index.js",
+    "start": "node source/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
